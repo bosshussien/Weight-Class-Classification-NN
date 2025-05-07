@@ -60,9 +60,3 @@ Notebook: `weightclass_nnmodel.ipynb`
 - 📊 Raw Dataset (Before preprocessing): [Kaggle UFC Data](https://www.kaggle.com/datasets/rajeevw/ufcdata)
 
 ---
-
-## 🏷 Hashtags for LinkedIn
-
-```
-#MachineLearning #DeepLearning #UFC #DataScience #SportsAnalytics #NeuralNetworks #Keras #Python #MLProjects #DataVisualization #AthletePerformance
-```
